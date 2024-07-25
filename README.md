@@ -8,6 +8,7 @@ Our idea allows users/employees to get started by downloading all the tools they
 3. Automation script for JIRA
 4. Presentation
 5. Video recordings
+6. Log file of the Back-End
 
 ## Contributors
 
